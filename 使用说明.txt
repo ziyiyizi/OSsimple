@@ -1,0 +1,1 @@
+ubuntu下使用bochs模拟运行即可。
